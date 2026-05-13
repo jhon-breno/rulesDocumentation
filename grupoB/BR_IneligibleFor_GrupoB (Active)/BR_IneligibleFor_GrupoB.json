@@ -1,0 +1,50 @@
+{
+  "ruleName": "BR_IneligibleFor_GrupoB",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Regra em documentacao inicial a partir de capturas da tela de Conditions e Actions.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [{
+      "expression": "not((/Workspace/SessionParameters/Parameter[@name=\"companyid\"]/@value)=\"2005\")"
+    }],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+    ]
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [],
+          "ineligibilityActions": [
+            {
+              "field": "Valor de Tensao BR",
+              "value": "127 V"
+            }
+          ]
+        }
+      }
+    ],
+    "REAAction": []
+  }
+}

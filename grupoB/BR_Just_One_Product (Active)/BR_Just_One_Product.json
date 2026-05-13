@@ -1,0 +1,33 @@
+{
+  "ruleName": "BR_Just_One_Product",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Permite apenas um produto no carrinho. Torna inelegível se houver mais de um.",
+  "conditions": {
+    "CartComposition": [
+      {
+        "cart": "contains",
+        "type": "product",
+        "ifNotPresent": false,
+        "productName": "Grupo B",
+        "qty": ">= 1"
+      }
+    ],
+    "REACondition": []
+  },
+  "actions": {
+    "BaseAction": [
+      {
+        "eligible": false,
+        "visible": true,
+        "comment": "Só é permitido incluir um produto no carrinho"
+      }
+    ],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [],
+    "REAAction": []
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "ruleName": "BR_CE_CambioTitularidade_GrupoB",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Regra em documentacao inicial a partir de informacoes textuais fornecidas.",
+  "conditions": {
+    "REACondition": [
+      {
+        "expression": "ends-with(/Workspace/SessionParameters/Parameter[@name=\"adjustment\"]/@value, \"Owner\")"
+      }
+    ]
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "40 - Rural"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B2_RUR - Categoria de tarifa B2 rural"
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "20 - Industrial"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+            },
+            {
+              "field": "SubClasse BR",
+              "value": "INDUST - Industrial"
+            }
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "requiredActions": [
+            {
+              "field": "Atributos CE",
+              "value": "Categoria de Tarifa BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Classe BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "SubClasse BR"
+            }
+          ],
+          "hiddenActions": [
+            {
+              "field": "Atributos CE",
+              "value": "Capacidade Disjuntor BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Carga KW BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Demanda Fora de Ponta BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Demanda KV BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Demanda Ponta BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Instalação Padrão"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Modalidade Tarifaria BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Nivel de Tensão BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Potencia KWA BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Tipo de Tensão BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "Valor de Tensão BR"
+            }
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "10 - Residencial"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B1_RESID - Categoria de tarifa B1 residencial"
+            }
+          ]
+        }
+      },
+      {
+        "index": 5,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "30 - Comercial"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+            }
+          ]
+        }
+      },
+      {
+        "index": 6,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "50 - Poder Público"
+            }
+          ],
+          "requiredActions": [
+            {
+              "field": "Atributos CE",
+              "value": "Categoria de Tarifa BR"
+            },
+            {
+              "field": "Atributos CE",
+              "value": "SubClasse BR"
+            }
+          ]
+        }
+      },
+      {
+        "index": 7,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "41 - Rural C/ICMS"
+            }
+          ]
+        }
+      },
+      {
+        "index": 8,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "70 - Serviço Público"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+            }
+          ]
+        }
+      }
+    ],
+    "REAAction": []
+  }
+}

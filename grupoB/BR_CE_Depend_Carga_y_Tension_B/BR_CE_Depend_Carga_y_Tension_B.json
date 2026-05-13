@@ -1,0 +1,65 @@
+{
+  "ruleName": "BR_CE_Depend_Carga_y_Tension_B",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Regra em documentacao inicial a partir de capturas da tela de Conditions e Actions.",
+  "conditions": {
+    "REACondition": [
+      {
+        "expression": "(number(/Workspace/SessionParameters/Parameter[@name=\"potencia\"]/@value) <number(\"75\")) and not(ends-with(/Workspace/SessionParameters/Parameter[@name=\"adjustment\"]/@value, \"Carga\"))"
+      }
+    ]
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "01-RESIDENCIAL"
+            }
+          ],
+          "ineligibilityActions": [
+            {
+              "field": "SubClasse CE",
+              "value": "11-COM REDUCAO DE 20% JUST ,01-COMERCIAL ,02-COMUNICACAO ,03-TRANSPORTE ,04- O.S.O.A ,05-SERVICO FEDERAL C/RET. TRIBUTO FEDERAL ,07-ASSOCIACOES E ENTIDADES FILANTROPICAS ,08-TEMPLOS RELIGIOSOS ,11-COM REDUCAO 20% JUSTICA ,12-ADMINISTRACAO CONDOMINIAL ,13-ILUMINACAO EM RODOVIAS ,14-SEMAFORAS RADARES CAMARAS MONITORAMENTO ,01-AGROPECUARIA ,03-INDUSTRIAL ,05-RURAL SERV. PUBLICO DE IRRIGACAO ,06-ESCOLA AGROTECNICA ,07-IRRIGANTE C/BENEFICIO DE 8,5 HRS. ,08-RURAL AQUICULTURA 8.5 HS ,09-FEDERAL COM RET TRIBUTO FEDERAL ,10-RESIDENCIA RURAL ,01-FEDERAL PROPRIO ,05-PROPRIO S/RET.TRIBUTO FEDERAL ,11-ESTADUAL PROPRIO ,21-MUNICIPAL PROPRIO ,21-MUNICIPAL ACERVO PROPRIO ,22-MUNICIPAL ACERVO COELCE ,23-MUNICIPAL ACERVO PROPRIO ESPECIAL ,11-TRACAO ELETRICA ,13-AGUA ESGOTO SANEAMENTO ,01-PROPRIO ,02-CANTEIRO DE OBRAS ,03-INTERNO SUBESTACAO ,06-MED. TRANSFORMADOR DE REDES ,07-COELCE CONTROLE DE SELOS ,07-IRRIGANTE C/BENEFICIO DE 8.5 HRS."
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "02-INDUSTRIAL"
+            }
+          ],
+          "ineligibilityActions": [
+            {
+              "field": "SubClasse CE",
+              "value": "07-BX. RENDA ,08-BX. RENDA-INDIO ,09-BX RENDA-QUILOMBOLA ,11-BX. RENDA - BPC ,01-COMERCIAL ,02-COMUNICACAO ,03-TRANSPORTE ,04- O.S.O.A ,05-SERVICO FEDERAL C/RET. TRIBUTO FEDERAL ,07-ASSOCIACOES E ENTIDADES FILANTROPICAS ,08-TEMPLOS RELIGIOSOS ,11-COM REDUCAO 20% JUSTICA ,12-ADMINISTRACAO CONDOMINIAL ,13-ILUMINACAO EM RODOVIAS ,14-SEMAFAROS RADARES CAMARAS MONITORAMENTO ,01-AGROPECUARIA ,03-INDUSTRIAL RURAL ,05-RURAL SERV. PUBLICO DE IRRIGACAO ,06-ESCOLA AGROTECNICA ,07-IRRIGANTE C/BENEFICIO DE 8,5 HRS. ,08-RURAL AQUICULTURA 8.5 HS ,09-FEDERAL COM RET. TRIBUTO FEDERAL ,10-RESIDENCIA RURAL ,01-FEDERAL PROPRIO ,05-PROPRIO S/RET.TRIBUTO FEDERAL ,11-ESTADUAL PROPRIO ,21-MUNICIPAL PROPRIO ,21-MUNICIPAL ACERVO PROPRIO ,22-MUNICIPAL ACERVO COELCE ,23-MUNICIPAL ACERVO PROPRIO ESPECIAL ,11-TRACAO ELETRICA ,13-AGUA ESGOTO SANEAMENTO ,01-PROPRIO ,02-CANTEIRO DE OBRAS ,03-INTERNO SUBESTACAO ,06-MED. TRANSFORMADOR DE REDES ,07-COELCE CONTROLE DE SELOS ,07-IRRIGANTE C/BENEFICIO DE 8.5 HRS."
+            }
+          ]
+        }
+      }
+    ],
+    "REAAction": []
+  }
+}

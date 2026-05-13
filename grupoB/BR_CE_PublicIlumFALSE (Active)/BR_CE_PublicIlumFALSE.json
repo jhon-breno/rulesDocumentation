@@ -1,0 +1,51 @@
+{
+  "ruleName": "BR_CE_PublicIlumFALSE",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Regra para identificar iluminação pública quando parâmetro 'public' for false. Define categoria de tarifa, classe e subclasse BR para iluminação pública.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [
+      {
+        "expression": "(/Workspace/SessionParameters/Parameter[@name=\"public\"]/@value)=\"false\""
+      }
+    ],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "productConditions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "B4B_IP - Categoria de tarifa B4b ilum. pública,B4A_IP - Categoria de tarifa B4a ilum. pública"
+          },
+          {
+            "field": "Classe BR",
+            "value": "60 - Iluminação Pública"
+          },
+          {
+            "field": "SubClasse BR",
+            "value": "ILPUBL - Iluminação Pública"
+          }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}

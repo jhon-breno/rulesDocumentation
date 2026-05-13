@@ -1,0 +1,47 @@
+{
+  "ruleName": "BR_CE_Other_Depencies_B",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Regra em documentacao inicial. Aguardando informacoes de Conditions; Actions parcialmente registradas.",
+  "conditions": {
+    "REACondition": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [],
+          "ineligibilityActions": [
+            {
+              "field": "Tipo de Tensao BR",
+              "value": "Trifasico (agrupado)"
+            }
+          ],
+          "requiredActions": [
+            {
+              "field": "Atributos CE",
+              "value": "SubClasse BR"
+            }
+          ],
+          "hiddenActions": [
+            {
+              "field": "Atributos CE",
+              "value": "Modalidade Tarifaria BR"
+            }
+          ]
+        }
+      }
+    ],
+    "REAAction": []
+  }
+}

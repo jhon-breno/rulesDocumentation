@@ -1,0 +1,46 @@
+{
+  "ruleName": "BR_CE_CC_AltTarifa_GrupoB",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Regra para alteração de tarifa no Grupo B. Destaca SubClasse BR e oculta diversos atributos CE.",
+  "conditions": {
+    "CartComposition": [],
+    "REACondition": [
+      {
+        "expression": "ends-with(/Workspace/SessionParameters/Parameter[@name=\"adjustment\"]/@value, 'Tarifa')"
+      }
+    ]
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "productConditions": [
+          {
+            "field": "Atributos CE",
+            "value": "SubClasse BR"
+          }
+        ],
+        "hiddenActions": [
+          { "field": "Atributos CE", "value": "Capacidade Disjuntor BR" },
+          { "field": "Atributos CE", "value": "Carga KW BR" },
+          { "field": "Atributos CE", "value": "Demanda Fora de Ponta BR" },
+          { "field": "Atributos CE", "value": "Demanda KV BR" },
+          { "field": "Atributos CE", "value": "Demanda Ponta BR" },
+          { "field": "Atributos CE", "value": "Instalação Padrão" },
+          { "field": "Atributos CE", "value": "Modalidade Tarifaria BR" },
+          { "field": "Atributos CE", "value": "Nivel de Tensão BR" },
+          { "field": "Atributos CE", "value": "Potencia KWA BR" },
+          { "field": "Atributos CE", "value": "Tipo de Tensão BR" },
+          { "field": "Atributos CE", "value": "Valor de Tensão BR" }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}

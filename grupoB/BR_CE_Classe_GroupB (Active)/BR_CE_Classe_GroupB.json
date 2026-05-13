@@ -1,0 +1,226 @@
+{
+  "ruleName": "BR_CE_Classe_GroupB",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Regra em documentacao inicial a partir de informacoes textuais fornecidas.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "52 - Poder Público Municipal"
+            }
+          ]
+        }
+      },
+      {
+        "index": 2,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "70 - Serviço Público"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+            }
+          ]
+        }
+      },
+      {
+        "index": 3,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "10 - Residencial"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B1_RESID - Categoria de tarifa B1 residencial"
+            }
+          ]
+        }
+      },
+      {
+        "index": 4,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "41 - Rural C/ICMS,42 - Rural normal Isento ICMS"
+            }
+          ]
+        }
+      },
+      {
+        "index": 5,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "51 - Poder Público Estadual,53 - Poder Público Estadual Adm. Indireta"
+            }
+          ]
+        }
+      },
+      {
+        "index": 6,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "50 - Poder Público Federal"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+            }
+          ]
+        }
+      },
+      {
+        "index": 7,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "20 - Industrial"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+            },
+            {
+              "field": "SubClasse BR",
+              "value": "INDUST - Industrial"
+            }
+          ]
+        }
+      },
+      {
+        "index": 8,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "30 - Comercial,32 - Templos Religiosos e Inst. Filantrópicas"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+            }
+          ]
+        }
+      },
+      {
+        "index": 9,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "40 - Rural"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B2_RUR - Categoria de tarifa B2 rural"
+            }
+          ]
+        }
+      },
+      {
+        "index": 10,
+        "smartPart": {
+          "onetime": null,
+          "recurring": null
+        },
+        "additionalInformation": {
+          "productConditions": [
+            {
+              "field": "Classe BR",
+              "value": "11 - Residencial Baixa Renda"
+            }
+          ],
+          "defaultActions": [
+            {
+              "field": "Categoria de Tarifa BR",
+              "value": "B1_RESID - Categoria de tarifa B1 residencial"
+            }
+          ]
+        }
+      }
+    ],
+    "REAAction": []
+  }
+}

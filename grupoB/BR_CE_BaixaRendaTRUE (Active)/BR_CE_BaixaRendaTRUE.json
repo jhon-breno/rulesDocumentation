@@ -1,0 +1,42 @@
+{
+  "ruleName": "BR_CE_BaixaRendaTRUE",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo B",
+  "documentationStatus": "partial",
+  "description": "Regra em documentacao inicial a partir de informacoes textuais fornecidas.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [
+      {
+        "expression": "((/Workspace/SessionParameters/Parameter[@name=\"lowIcome\"]/@value)=\"true\") and not((/Workspace/SessionParameters/Parameter[@name=\"TypeBx\"]/@value)=\"true\")"
+      }
+    ],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [
+      {
+        "field": "Categoria de Tarifa BR",
+        "value": "B1_RESID - Categoria de tarifa B1 residencial"
+      },
+      {
+        "field": "Classe BR",
+        "value": "11 - Residencial Baixa Renda"
+      }
+    ],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [],
+    "REAAction": []
+  }
+}
