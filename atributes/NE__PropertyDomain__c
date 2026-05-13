@@ -1,0 +1,2354 @@
+[
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAcAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAcAAK",
+    "Name": "40"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAdAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAdAAK",
+    "Name": "63"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAeAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAeAAK",
+    "Name": "50"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAfAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAfAAK",
+    "Name": "100"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAgAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAgAAK",
+    "Name": "125"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAhAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAhAAK",
+    "Name": "175"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAiAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAiAAK",
+    "Name": "200"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAnAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAnAAK",
+    "Name": "16"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAoAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAoAAK",
+    "Name": "20"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgApAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgApAAK",
+    "Name": "25"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAqAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgAqAAK",
+    "Name": "32"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgArAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BVEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BVEAZ"
+      },
+      "Name": "Capacidade Disjuntor BR"
+    },
+    "Id": "a1i1o000003OgArAAK",
+    "Name": "80"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAwAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgAwAAK",
+    "Name": "A1_AZ - Categoria de tarifa A1 horosazonal azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAxAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgAxAAK",
+    "Name": "A1_CONV - Categoria de tarifa A1 convencional"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAyAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgAyAAK",
+    "Name": "A1_LVAZ - Categoria de tarifa A1 horo azul livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAzAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgAzAAK",
+    "Name": "A1_LVVD - Categoria de tarifa A1 horo verde livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB0AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB0AAK",
+    "Name": "A1_VD - Categoria de tarifa A1 horosazonal verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB1AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB1AAK",
+    "Name": "A2_AZ - Categoria de tarifa A2 horosazonal azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB2AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB2AAK",
+    "Name": "A2_CONV - Categoria de tarifa A2 convencional"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB3AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB3AAK",
+    "Name": "A2_GER - Categoria de tarifa A2 gerador"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB4AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB4AAK",
+    "Name": "A2_GERAZ - Categoria de tarifa A2 gerador azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB5AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB5AAK",
+    "Name": "A2_GERVD - Categoria de tarifa A2 gerador verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB6AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB6AAK",
+    "Name": "A2_LVAZ - Categoria de tarifa A2 horo azul livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB7AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB7AAK",
+    "Name": "A2_LVVD - Categoria de tarifa A2 horo verde livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB8AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB8AAK",
+    "Name": "A2_VD - Categoria de tarifa A2 horosazonal verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgB9AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgB9AAK",
+    "Name": "A3A_AZ - Categoria de tarifa A3a horosazonal azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBAAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBAAA0",
+    "Name": "A3A_CONV - Categoria de tarifa A3a convencional"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBBAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBBAA0",
+    "Name": "A3A_GER - Categoria de tarifa A3a gerador"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBCAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBCAA0",
+    "Name": "A3A_GERAZ - Categoria de tarifa A3a gerador azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBDAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBDAA0",
+    "Name": "A3A_GERVD - Categoria de tarifa A3a gerador verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBEAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBEAA0",
+    "Name": "A3A_LVAZ - Categoria de tarifa A3a horo azul livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBFAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBFAA0",
+    "Name": "A3A_LVVD - Categoria de tarifa A3a horo verde livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBGAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBGAA0",
+    "Name": "A3A_VD - Categoria de tarifa A3a horo verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBHAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBHAA0",
+    "Name": "A3_AZ - Categoria de tarifa A3 horosazonal azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBIAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBIAA0",
+    "Name": "A3_CONV - Categora de tarifa A3 convencional"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBJAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBJAA0",
+    "Name": "A3_GER - Categoria de tarifa A3 gerador"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBKAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBKAA0",
+    "Name": "A3_GERAZ - Categoria de tarifa A3 gerador azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBLAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBLAA0",
+    "Name": "A3_GERVD - Categoria de tarifa A3 gerador verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBMAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBMAA0",
+    "Name": "A3_LVAZ - Categoria de tarifa A3 horo azul livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBNAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBNAA0",
+    "Name": "A3_LVVD - Categoria de tarifa A3 horo verde livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBOAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBOAA0",
+    "Name": "A3_VD - Categoria de tarifa A3 horosazonal verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBPAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBPAA0",
+    "Name": "A4_AZ - Categoria de tarifa A4 horosazonal azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBRAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBRAA0",
+    "Name": "A4_GER - Categoria de tarifa A4 gerador"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBSAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBSAA0",
+    "Name": "A4_GERAZ - Categoria de tarifa A4 gerador azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBTAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBTAA0",
+    "Name": "A4_GERVD - Categoria de tarifa A4 gerador verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBUAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBUAA0",
+    "Name": "A4_LVAZ - Categoria de tarifa A4 horo azul livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBVAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBVAA0",
+    "Name": "A4_LVVD - Categoria de tarifa A4 horo verde livre"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBWAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBWAA0",
+    "Name": "A4_VD - Categoria de tarifa A4 horosazonal verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBXAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBXAA0",
+    "Name": "B1_RESID - Categoria de tarifa B1 residencial"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBYAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBYAA0",
+    "Name": "B2_RUR - Categoria de tarifa B2 rural"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBZAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBZAA0",
+    "Name": "B3_OUTROS - Categoria de tarifa B3 outros"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBaAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBaAAK",
+    "Name": "B4A_IP - Categoria de tarifa B4a ilum. pública"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBbAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBbAAK",
+    "Name": "B4B_IP - Categoria de tarifa B4b ilum. pública"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBcAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBcAAK",
+    "Name": "DUMMY - Categoria de tarifa DUMMY"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBdAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBdAAK",
+    "Name": "ELE_LIST - CATEGORIA TARIFFA A LISTINO - FORMAT"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBeAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBeAAK",
+    "Name": "ELE_PRICE - CATEGORIA TARIFFA A PREZZO - FORMAT"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBfAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBfAAK",
+    "Name": "GAS_MM - CATEGORIA TARIFFA GAS MM - FORMAT"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBgAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBgAAK",
+    "Name": "GAS_PROC - CATEGORIA TARIFFA GAS PROCEDURE"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBhAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBhAAK",
+    "Name": "MED_FISCAL - Categoria de Tarifa Medição Fiscal"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBiAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgBiAAK",
+    "Name": "MIGRADO - Categoria de tarifa para dados Migrados"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCdAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BbEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BbEAJ"
+      },
+      "Name": "Categoria de Tarifa BR"
+    },
+    "Id": "a1i1o000003OgCdAAK",
+    "Name": "A1_GERAZ - Categoria de tarifa A1 gerador azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i06000002Un57AAC"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i06000002Un57AAC",
+    "Name": "53 - Poder Público Estadual Adm. Indireta"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i06000002Un5CAAS"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i06000002Un5CAAS",
+    "Name": "42 - Rural normal Isento ICMS"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i06000002Un5HAAS"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i06000002Un5HAAS",
+    "Name": "32 - Templos Religiosos e Inst. Filantrópicas"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i06000003q75OAAQ"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i06000003q75OAAQ",
+    "Name": "51 - Poder Público Estadual"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i06000003q75TAAQ"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i06000003q75TAAQ",
+    "Name": "52 - Poder Público Municipal"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCSAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCSAA0",
+    "Name": "10 - Residencial"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCTAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCTAA0",
+    "Name": "11 - Residencial Baixa Renda"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCUAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCUAA0",
+    "Name": "20 - Industrial"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCVAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCVAA0",
+    "Name": "30 - Comercial"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCWAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCWAA0",
+    "Name": "40 - Rural"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCXAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCXAA0",
+    "Name": "50 - Poder Público Federal"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCYAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCYAA0",
+    "Name": "60 - Iluminação Pública"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCZAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCZAA0",
+    "Name": "70 - Serviço Público"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCaAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCaAAK",
+    "Name": "80 - Consumo Próprio"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCcAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003OgCcAAK",
+    "Name": "9 - REVENDA"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003Zs71AAC"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BdEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BdEAJ"
+      },
+      "Name": "Classe BR"
+    },
+    "Id": "a1i1o000003Zs71AAC",
+    "Name": "41 - Rural C/ICMS"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAsAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BYEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BYEAZ"
+      },
+      "Name": "Modalidade Tarifaria BR"
+    },
+    "Id": "a1i1o000003OgAsAAK",
+    "Name": "Horosazonal Azul"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAtAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BYEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BYEAZ"
+      },
+      "Name": "Modalidade Tarifaria BR"
+    },
+    "Id": "a1i1o000003OgAtAAK",
+    "Name": "Horosazonal Verde"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAuAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BYEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BYEAZ"
+      },
+      "Name": "Modalidade Tarifaria BR"
+    },
+    "Id": "a1i1o000003OgAuAAK",
+    "Name": "OPTANTE"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAvAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BYEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BYEAZ"
+      },
+      "Name": "Modalidade Tarifaria BR"
+    },
+    "Id": "a1i1o000003OgAvAAK",
+    "Name": "HORO AZUL"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAXAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BTEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BTEAZ"
+      },
+      "Name": "Nivel de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAXAA0",
+    "Name": "Baixa Tensão"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAYAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BTEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BTEAZ"
+      },
+      "Name": "Nivel de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAYAA0",
+    "Name": "Alta Tensão"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAZAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BTEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BTEAZ"
+      },
+      "Name": "Nivel de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAZAA0",
+    "Name": "Média Tensão"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBjAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBjAAK",
+    "Name": "COMBOPT - Comercial B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBkAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBkAAK",
+    "Name": "COMCON - Comerc. Administração Condominial"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBlAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBlAAK",
+    "Name": "COMCT - Comerc. Serv. Comunicações e Telecom"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBmAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBmAAK",
+    "Name": "COMER - Comercial"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBnAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBnAAK",
+    "Name": "COMFIL - Comerc. Associação e Entidades Filant."
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBoAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBoAAK",
+    "Name": "COMOS - Comerc. Outros Serviços e Atividades"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBpAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBpAAK",
+    "Name": "COMREL - Comerc. Templos Religiosos"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBqAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBqAAK",
+    "Name": "COMROD - Comerc. Iluminação em Rodovia"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBrAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBrAAK",
+    "Name": "COMSEM - Comerc. Semáforos Radares e Câmeras"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBsAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBsAAK",
+    "Name": "COMTP - Comerc. Serviços de Transporte"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBtAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBtAAK",
+    "Name": "CPCPE - Consumo Próprio - Escritórios"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBuAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBuAAK",
+    "Name": "CPCPO - Consumo Próprio - Canteiro de Obras"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBvAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBvAAK",
+    "Name": "CPCPSE - Consumo Próprio - Sub-Estação"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBwAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBwAAK",
+    "Name": "CPCPU - Consumo Próprio - Usinas"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBxAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBxAAK",
+    "Name": "ILPUBL - Iluminação Pública"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgByAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgByAAK",
+    "Name": "INDBOPT - Industrial B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgBzAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgBzAAK",
+    "Name": "INDUST - Industrial"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC0AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC0AAK",
+    "Name": "PPEBOPT - Poder Público Estadual B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC1AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC1AAK",
+    "Name": "PPEST - Poder Público Estadual"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC2AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC2AAK",
+    "Name": "PPFBOPT - Poder Público Federal B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC3AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC3AAK",
+    "Name": "PPFED - Poder Público Federal"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC4AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC4AAK",
+    "Name": "PPMBOPT - Poder Público Municipal B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC5AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC5AAK",
+    "Name": "PPMUN - Poder Público Municipal"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC6AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC6AAK",
+    "Name": "REBRBPC - Resid. Baixa Renda BPC"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC7AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC7AAK",
+    "Name": "REBRIND - Resid. Baixa Renda Indígena"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC8AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC8AAK",
+    "Name": "REBRMUL - Resid. Baixa Renda Multifamiliar"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgC9AAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgC9AAK",
+    "Name": "REBRQUI - Resid. Baixa Renda Quilombola"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCAAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCAAA0",
+    "Name": "REBXR - Resid. Baixa Renda"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCBAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCBAA0",
+    "Name": "REPLN - Residencial Pleno"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCCAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCCAA0",
+    "Name": "RESBOPT - Residencial B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCDAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCDAA0",
+    "Name": "RUAGU - Rural Agropecuária Urbana"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCEAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCEAA0",
+    "Name": "RUAQC - Rural Aquicultura / Irrigante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCFAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCFAA0",
+    "Name": "RUCES - Rural Cooperativa de Eletrificação Rural"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCGAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCGAA0",
+    "Name": "RURAG - Rural Agropecuária"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCHAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCHAA0",
+    "Name": "RURBOPT - Rural B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCIAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCIAA0",
+    "Name": "RURCR - Rural Coletividade Rural"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCJAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCJAA0",
+    "Name": "RUREA - Rural Escola Agrotécnica"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCKAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCKAA0",
+    "Name": "RURIR - Rural Indústria Rural"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCLAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCLAA0",
+    "Name": "RURRR - Rural Residencial Rural"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCMAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCMAA0",
+    "Name": "RURSP - Rural Serviço Público de Irrigação Rural"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCNAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCNAA0",
+    "Name": "SPAES - Serviço Público Água Esgoto e Saneamento"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCOAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCOAA0",
+    "Name": "SPAESBOT - Serviço Público AES B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCPAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCPAA0",
+    "Name": "SPERVBOT - Serviço Público B-Optante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCQAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCQAA0",
+    "Name": "SPTER - Serviço Público Tração Elétrica"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCRAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCRAA0",
+    "Name": "SPTRS - Serviço Público Trat. de Resíduo Sólido"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgCbAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgCbAAK",
+    "Name": "REVENDA - Revenda de Energia"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgOJAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003OgOJAA0",
+    "Name": "RUAQCOPT - Rural Optante Aquicultura / Irrigante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003Zs6zAAC"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003Zs6zAAC",
+    "Name": "RUAQC - Rural Aquicultura"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003Zs70AAC"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i1o000003Zs70AAC",
+    "Name": "RURIR - Rural Irrigante"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i9O00000rqt3WQAQ"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BcEAJ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BcEAJ"
+      },
+      "Name": "SubClasse BR"
+    },
+    "Id": "a1i9O00000rqt3WQAQ",
+    "Name": "REBXDS - Resid. Desconto Social"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAjAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BWEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BWEAZ"
+      },
+      "Name": "Tipo de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAjAAK",
+    "Name": "Monofásica"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAkAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BWEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BWEAZ"
+      },
+      "Name": "Tipo de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAkAAK",
+    "Name": "Bifásica"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAlAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BWEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BWEAZ"
+      },
+      "Name": "Tipo de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAlAAK",
+    "Name": "Trifásica"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAmAAK"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BWEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BWEAZ"
+      },
+      "Name": "Tipo de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAmAAK",
+    "Name": "Trifásico (agrupado)"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAOAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAOAA0",
+    "Name": "11.4 KV"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAPAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAPAA0",
+    "Name": "13.8 KV"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAQAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAQAA0",
+    "Name": "34.5 KV"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgARAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgARAA0",
+    "Name": "69 KV"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgASAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgASAA0",
+    "Name": "138 KV"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgATAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgATAA0",
+    "Name": "230 KV"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAUAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAUAA0",
+    "Name": "127 V"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAVAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAVAA0",
+    "Name": "220 V"
+  },
+  {
+    "attributes": {
+      "type": "NE__PropertyDomain__c",
+      "url": "/services/data/v65.0/sobjects/NE__PropertyDomain__c/a1i1o000003OgAWAA0"
+    },
+    "NE__PropId__c": "a1D1o00000Jo2BSEAZ",
+    "NE__PropId__r": {
+      "attributes": {
+        "type": "NE__DynamicPropertyDefinition__c",
+        "url": "/services/data/v65.0/sobjects/NE__DynamicPropertyDefinition__c/a1D1o00000Jo2BSEAZ"
+      },
+      "Name": "Valor de Tensão BR"
+    },
+    "Id": "a1i1o000003OgAWAA0",
+    "Name": "380 V"
+  }
+]
