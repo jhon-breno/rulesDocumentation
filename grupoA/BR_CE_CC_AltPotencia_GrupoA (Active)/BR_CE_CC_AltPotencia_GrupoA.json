@@ -1,0 +1,55 @@
+{
+  "ruleName": "BR_CE_CC_AltPotencia_GrupoA",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo A",
+  "documentationStatus": "partial",
+  "description": "Regra para alteração de potência no Grupo A, ocultando atributos CE específicos.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [
+      {
+        "expression": "ends-with(/Workspace/SessionParameters/Parameter[@name=\"adjustment\"]/@value, \"Potencia\")"
+      }
+    ],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "hiddenActions": [
+          {
+            "field": "Atributos CE",
+            "value": "Capacidade Disjuntor BR"
+          },
+          {
+            "field": "Atributos CE",
+            "value": "Instalação Padrão"
+          },
+          {
+            "field": "Atributos CE",
+            "value": "Nivel de Tensão BR"
+          },
+          {
+            "field": "Atributos CE",
+            "value": "Tipo de Tensão BR"
+          }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}

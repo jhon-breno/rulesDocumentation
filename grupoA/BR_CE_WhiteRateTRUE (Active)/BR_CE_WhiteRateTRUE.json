@@ -1,0 +1,43 @@
+{
+  "ruleName": "BR_CE_WhiteRateTRUE",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo A",
+  "documentationStatus": "partial",
+  "description": "Regra para cliente com tarifa branca ativa. Bloqueia modalidades tarifarias especificas.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [
+      {
+        "expression": "(/Workspace/SessionParameters/Parameter[@name=\"white\"]/@value)=\"true\""
+      }
+    ],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "ineligibilityActions": [
+          {
+            "field": "Modalidade Tarifaria BR",
+            "value": "Horosazonal Azul,Horosazonal Verde,HORO AZUL"
+          }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}

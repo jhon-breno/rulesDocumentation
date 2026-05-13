@@ -1,0 +1,57 @@
+{
+  "ruleName": "BR_CE_PublicIlumTRUE",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo A",
+  "documentationStatus": "partial",
+  "description": "Regra para iluminação pública quando o parâmetro public for true, com bloqueio de categorias/classes/subclasses e definição de classe padrão.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [
+      {
+        "expression": "(/Workspace/SessionParameters/Parameter[@name=\"public\"]/@value)=\"true\""
+      }
+    ],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "ineligibilityActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "A1_AZ - Categoria de tarifa A1 horosazonal azul,A1_CONV - Categoria de tarifa A1 convencional,A1_LVAZ - Categoria de tarifa A1 horo azul livre,A1_LVVD - Categoria de tarifa A1 horo verde livre,A1_VD - Categoria de tarifa A1 horosazonal verde,A2_AZ - Categoria de tarifa A2 horosazonal azul,A2_CONV - Categoria de tarifa A2 convencional,A2_GER - Categoria de tarifa A2 gerador,A2_GERAZ - Categoria de tarifa A2 gerador azul,A2_GERVD - Categoria de tarifa A2 gerador verde,A2_LVAZ - Categoria de tarifa A2 horo azul livre,A2_LVVD - Categoria de tarifa A2 horo verde livre,A2_VD - Categoria de tarifa A2 horosazonal verde,A3A_AZ - Categoria de tarifa A3a horosazonal azul,A3A_CONV - Categoria de tarifa A3a convencional,A3A_GER - Categoria de tarifa A3a gerador,A3A_GERAZ - Categoria de tarifa A3a gerador azul,A3A_GERVD - Categoria de tarifa A3a gerador verde,A3A_LVAZ - Categoria de tarifa A3a horo azul livre,A3A_LVVD - Categoria de tarifa A3a horo verde livre,A3A_VD - Categoria de tarifa A3a horo verde,A3_AZ - Categoria de tarifa A3 horosazonal azul,A3_CONV - Categora de tarifa A3 convencional,A3_GER - Categoria de tarifa A3 gerador,A3_GERAZ - Categoria de tarifa A3 gerador azul,A3_GERVD - Categoria de tarifa A3 gerador verde,A3_LVAZ - Categoria de tarifa A3 horo azul livreAS,A3_LVVD - Categoria de tarifa A3 horo verde livre,A3_VD - Categoria de tarifa A3 horosazonal verde,A4_AZ - Categoria de tarifa A4 horosazonal azul,A4_CONV - Categoria de tarifa A4 convencional,A4_GER - Categoria de tarifa A4 gerador,A4_GERAZ - Categoria de tarifa A4 gerador azul,A4_GERVD - Categoria de tarifa A4 gerador verde,A4_LVAZ - Categoria de tarifa A4 horo azul livre,A4_LVVD - Categoria de tarifa A4 horo verde livre,A4_VD - Categoria de tarifa A4 horosazonal verde,B1_RESID - Categoria de tarifa B1 residencial,B2_RUR - Categoria de tarifa B2 rural,B3_OUTROS - Categoria de tarifa B3 outros,DUMMY - Categoria de tarifa DUMMY,ELE_LIST - CATEGORIA TARIFFA A LISTINO - FORMAT,ELE_PRICE - CATEGORIA TARIFFA A PREZZO - FORMAT,GAS_MM - CATEGORIA TARIFFA GAS MM - FORMAT,GAS_PROC - CATEGORIA TARIFFA GAS PROCEDURE,MED_FISCAL - Categoria de Tarifa Medição Fiscal,MIGRADO - Categoria de tarifa para dados Migrados"
+          },
+          {
+            "field": "Classe BR",
+            "value": "10 - Residencial,11 - Residencial Baixa Renda,20 - Industrial,30 - Comercial,40 - Rural,50 - Poder Público,70 - Serviço Público,80 - Consumo Próprio,9 - REVENDA"
+          },
+          {
+            "field": "SubClasse BR",
+            "value": "COMBOPT - Comercial B-Optante,COMBOPT - Comercial B-Optante,COMCON - Comerc. Administração Condominial,COMCT - Comerc. Serv. Comunicações e Telecom,COMER - Comercial,COMFIL - Comerc. Associação e Entidades Filant.,COMOS - Comerc. Outros Serviços e Atividades,COMREL - Comerc. Templos Religiosos,COMROD - Comerc. Iluminação em Rodovia,COMSEM - Comerc. Semáforos Radares e Câmeras,COMTP - Comerc. Serviços de Transporte,CPCPE - Consumo Próprio - Escritórios,CPCPO - Consumo Próprio - Canteiro de Obras,CPCPSE - Consumo Próprio - Sub-Estação,CPCPU - Consumo Próprio - Usinas,INDBOPT - Industrial B-Optante,INDUST - Industrial,PPEBOPT - Poder Público Estadual B-Optante,PPEST - Poder Público Estadual,PPFBOPT - Poder Público Federal B-Optante,PPFED - Poder Público Federal,PPMBOPT - Poder Público Municipal B-Optante,PPMUN - Poder Público Municipal,REBRBPC - Resid. Baixa Renda BPC,REBRIND - Resid. Baixa Renda Indígena,REBRMUL - Resid. Baixa Renda Multifamiliar,REBRQUI - Resid. Baixa Renda Quilombola,REBXR - Resid. Baixa Renda,REPLN - Residencial Pleno,RESBOPT - Residencial B-Optante,RUAGU - Rural Agropecuária Urbana,RUAQC - Rural Aqüicultura,RUCES - Rural Cooperativa de Eletrificação Rural,RURAG - Rural Agropecuária,RURBOPT - Rural B-Optante,RURCR - Rural Coletividade Rural,RUREA - Rural Escola Agrotécnica,RURIR - Rural Indústria Rural,RURRR - Rural Residencial Rural,RURSP - Rural Serviço Público de Irrigação Rural,SPAES - Serviço Público Água Esgoto e Saneamento,SPAESBOT - Serviço Público AES B-Optante,SPERVBOT - Serviço Público B-Optante,SPTER - Serviço Público Tração Elétrica,SPTRS - Serviço Público Trat. de Resíduo Sólido,SPTRSBOT - Serviço Público Resíduo B-Optante,RBXRDS - Resid. Desconto Social"
+          }
+        ],
+        "defaultActions": [
+          {
+            "field": "Classe BR",
+            "value": "60 - Iluminação Pública"
+          }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}

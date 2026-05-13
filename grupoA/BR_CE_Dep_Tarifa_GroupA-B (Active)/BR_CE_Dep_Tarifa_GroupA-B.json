@@ -1,0 +1,265 @@
+{
+  "ruleName": "BR_CE_Dep_Tarifa_GroupA-B",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo A-B",
+  "documentationStatus": "partial",
+  "description": "Regra de dependência de tarifa para classes e subclasses dos Grupos A e B.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "productConditions": [
+          {
+            "field": "SubClasse BR",
+            "value": "RESBOPT - Residencial B-Optante"
+          }
+        ],
+        "defaultActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "B1_RESID - Categoria de tarifa B1 residencial"
+          }
+        ],
+        "readOnlyActions": [
+          {
+            "field": "Atributos CE",
+            "value": "Categoria de Tarifa BR"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "productConditions": [
+          {
+            "field": "SubClasse BR",
+            "value": "REPLN - Residencial Pleno"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "productConditions": [
+          {
+            "field": "Modalidade Tarifaria BR",
+            "value": ""
+          }
+        ],
+        "defaultActions": [
+          {
+            "field": "Classe BR",
+            "value": ""
+          },
+          {
+            "field": "SubClasse BR",
+            "value": ""
+          },
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": ""
+          }
+        ],
+        "readOnlyActions": [
+          {
+            "field": "Atributos CE",
+            "value": "Classe BR"
+          },
+          {
+            "field": "Atributos CE",
+            "value": "SubClasse BR"
+          },
+          {
+            "field": "Atributos CE",
+            "value": "Categoria de Tarifa BR"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": ""
+          }
+        ],
+        "defaultActions": [
+          {
+            "field": "SubClasse BR",
+            "value": ""
+          },
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": ""
+          }
+        ],
+        "readOnlyActions": [
+          {
+            "field": "Atributos CE",
+            "value": "SubClasse BR"
+          },
+          {
+            "field": "Atributos CE",
+            "value": "Categoria de Tarifa BR"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "productConditions": [
+          {
+            "field": "SubClasse BR",
+            "value": ""
+          }
+        ],
+        "defaultActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": ""
+          }
+        ],
+        "readOnlyActions": [
+          {
+            "field": "Atributos CE",
+            "value": "Categoria de Tarifa BR"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "productConditions": [
+          {
+            "field": "SubClasse BR",
+            "value": "INDBOPT - Industrial B-Optante,COMBOPT - Comercial B-Optante,PPEBOPT - Poder Público Estadual B-Optante,PPFBOPT - Poder Público Federal B-Optante,PPMBOPT - Poder Público Municipal B-Optante,SPAESBOT - Serviço Público AES B-Optante,SPERVBOT - Serviço Público B-Optante"
+          }
+        ],
+        "defaultActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+          }
+        ],
+        "readOnlyActions": [
+          {
+            "field": "Atributos CE",
+            "value": "Categoria de Tarifa BR"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "productConditions": [
+          {
+            "field": "SubClasse BR",
+            "value": "INDUST - Industrial,COMCON - Comerc. Administração Condominial,COMCT - Comerc. Serv. Comunicações e Telecom,COMER - Comercial,COMFIL - Comerc. Associação e Entidades Filant.,COMOS - Comerc. Outros Serviços e Atividades,COMREL - Comerc. Templos Religiosos,COMROD - Comerc. Iluminação em Rodovia,COMSEM - Comerc. Semáforos Radares e Câmeras,COMTP - Comerc. Serviços de Transporte,RUAGU - Rural Agropecuária Urbana,RUAQC - Rural Aquicultura / Irrigante,RUCES - Rural Cooperativa de Eletrificação Rural,RURAG - Rural Agropecuária,RURCR - Rural Coletividade Rural,RUREA - Rural Escola Agrotécnica,RURIR - Rural Indústria Rural,RURRR - Rural Residencial Rural,RURSP - Rural Serviço Público de Irrigação Rural,PPEST - Poder Público Estadual,PPFED - Poder Público Federal,PPMUN - Poder Público Municipal,SPAES - Serviço Público Água Esgoto e Saneamento,SPTER - Serviço Público Tração Elétrica,SPTRS - Serviço Público Trat. de Resíduo Sólido,CPCPO - Consumo Próprio - Canteiro de Obras,CPCPSE - Consumo Próprio - Sub-Estação,CPCPU - Consumo Próprio - Usinas"
+          }
+        ],
+        "ineligibilityActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "B3_OUTROS - Categoria de tarifa B3 outros"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "productConditions": [
+          {
+            "field": "SubClasse BR",
+            "value": "RURBOPT - Rural B-Optante,RUAQCOPT - Rural Optante Aquicultura / Irrigante"
+          }
+        ],
+        "defaultActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "B2_RUR - Categoria de tarifa B2 rural"
+          }
+        ],
+        "readOnlyActions": [
+          {
+            "field": "Atributos CE",
+            "value": "Categoria de Tarifa BR"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "productConditions": [
+          {
+            "field": "Modalidade Tarifaria BR",
+            "value": "OPTANTE"
+          }
+        ],
+        "ineligibilityActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "A1_AZ - Categoria de tarifa A1 horosazonal azul,A1_CONV - Categoria de tarifa A1 convencional,A1_LVAZ - Categoria de tarifa A1 horo azul livre,A1_LVVD - Categoria de tarifa A1 horo verde livre,A1_VD - Categoria de tarifa A1 horosazonal verde,A2_AZ - Categoria de tarifa A2 horosazonal azul,A2_CONV - Categoria de tarifa A2 convencional,A2_GER - Categoria de tarifa A2 gerador,A2_GERAZ - Categoria de tarifa A2 gerador azul,A2_GERVD - Categoria de tarifa A2 gerador verde,A2_LVAZ - Categoria de tarifa A2 horo azul livre,A2_LVVD - Categoria de tarifa A2 horo verde livre,A2_VD - Categoria de tarifa A2 horosazonal verde,A3A_AZ - Categoria de tarifa A3a horosazonal azul,A3A_CONV - Categoria de tarifa A3a convencional,A3A_GER - Categoria de tarifa A3a gerador,A3A_GERAZ - Categoria de tarifa A3a gerador azul,A3A_GERVD - Categoria de tarifa A3a gerador verde,A3A_LVAZ - Categoria de tarifa A3a horo azul livre,A3A_LVVD - Categoria de tarifa A3a horo verde livre,A3A_VD - Categoria de tarifa A3a horo verde,A3_AZ - Categoria de tarifa A3 horosazonal azul,A3_CONV - Categora de tarifa A3 convencional,A3_GER - Categoria de tarifa A3 gerador,A3_GERAZ - Categoria de tarifa A3 gerador azul,A3_GERVD - Categoria de tarifa A3 gerador verde,A3_LVAZ - Categoria de tarifa A3 horo azul livre,A3_LVVD - Categoria de tarifa A3 horo verde livre,A3_VD - Categoria de tarifa A3 horosazonal verde,A4_AZ - Categoria de tarifa A4 horosazonal azul,A4_CONV - Categoria de tarifa A4 convencional,A4_GER - Categoria de tarifa A4 gerador,A4_GERAZ - Categoria de tarifa A4 gerador azul,A4_GERVD - Categoria de tarifa A4 gerador verde,A4_LVAZ - Categoria de tarifa A4 horo azul livre,A4_LVVD - Categoria de tarifa A4 horo verde livre,A4_VD - Categoria de tarifa A4 horosazonal verde,B4B_IP - Categoria de tarifa B4b ilum. pública,DUMMY - Categoria de tarifa DUMMY,ELE_LIST - CATEGORIA TARIFFA A LISTINO - FORMAT,ELE_PRICE - CATEGORIA TARIFFA A PREZZO - FORMAT,GAS_MM - CATEGORIA TARIFFA GAS MM - FORMAT,GAS_PROC - CATEGORIA TARIFFA GAS PROCEDURE,MED_FISCAL - Categoria de Tarifa Medição Fiscal,MIGRADO - Categoria de tarifa para dados Migrados,A1_GERAZ - Categoria de tarifa A1 gerador azul"
+          },
+          {
+            "field": "Classe BR",
+            "value": "80 - Consumo Próprio,9 - REVENDA"
+          },
+          {
+            "field": "SubClasse BR",
+            "value": "REVENDA - Revenda de Energia,COMCON - Comerc. Administração Condominial,COMCT - Comerc. Serv. Comunicações e Telecom,COMER - Comercial,COMFIL - Comerc. Associação e Entidades Filant.,COMOS - Comerc. Outros Serviços e Atividades,COMREL - Comerc. Templos Religiosos,COMROD - Comerc. Iluminação em Rodovia,COMSEM - Comerc. Semáforos Radares e Câmeras,COMTP - Comerc. Serviços de Transporte,CPCPE - Consumo Próprio - Escritórios,CPCPO - Consumo Próprio - Canteiro de Obras,CPCPSE - Consumo Próprio - Sub-Estação,CPCPU - Consumo Próprio - Usinas,INDUST - Industrial,PPEST - Poder Público Estadual,PPFED - Poder Público Federal,PPMUN - Poder Público Municipal,REBRBPC - Resid. Baixa Renda BPC,REBRIND - Resid. Baixa Renda Indígena,REBRMUL - Resid. Baixa Renda Multifamiliar,REBRQUI - Resid. Baixa Renda Quilombola,REBXR - Resid. Baixa Renda,REPLN - Residencial Pleno,SPAES - Serviço Público Água Esgoto e Saneamento,SPTER - Serviço Público Tração Elétrica,SPTRS - Serviço Público Trat. de Resíduo Sólido"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "productConditions": [
+          {
+            "field": "Modalidade Tarifaria BR",
+            "value": "Horosazonal Azul"
+          }
+        ],
+        "ineligibilityActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "A1_CONV - Categoria de tarifa A1 convencional,A1_LVVD - Categoria de tarifa A1 horo verde livre,A1_VD - Categoria de tarifa A1 horosazonal verde,A2_CONV - Categoria de tarifa A2 convencional,A2_GERVD - Categoria de tarifa A2 gerador verde,A2_LVVD - Categoria de tarifa A2 horo verde livre,A2_VD - Categoria de tarifa A2 horosazonal verde,A3A_CONV - Categoria de tarifa A3a convencional,A3A_GERVD - Categoria de tarifa A3a gerador verde,A3A_LVVD - Categoria de tarifa A3a horo verde livre,A3A_VD - Categoria de tarifa A3a horo verde,A3_CONV - Categora de tarifa A3 convencional,A3_GERVD - Categoria de tarifa A3 gerador verde,A3_LVVD - Categoria de tarifa A3 horo verde livre,A3_VD - Categoria de tarifa A3 horosazonal verde,A4_GERVD - Categoria de tarifa A4 gerador verde,A4_LVVD - Categoria de tarifa A4 horo verde livre,A4_VD - Categoria de tarifa A4 horosazonal verde,B1_RESID - Categoria de tarifa B1 residencial,B4B_IP - Categoria de tarifa B4b ilum. pública,DUMMY - Categoria de tarifa DUMMY,ELE_LIST - CATEGORIA TARIFFA A LISTINO - FORMAT,ELE_PRICE - CATEGORIA TARIFFA A PREZZO - FORMAT,GAS_MM - CATEGORIA TARIFFA GAS MM - FORMAT,GAS_PROC - CATEGORIA TARIFFA GAS PROCEDURE,MED_FISCAL - Categoria de Tarifa Medição Fiscal,MIGRADO - Categoria de tarifa para dados Migrados,A2_GERAZ - Categoria de tarifa A2 gerador azul,A3A_GERAZ - Categoria de tarifa A3a gerador azul,A3_GERAZ - Categoria de tarifa A3 gerador azul,A4_GERAZ - Categoria de tarifa A4 gerador azul,B2_RUR - Categoria de tarifa B2 rural"
+          },
+          {
+            "field": "SubClasse BR",
+            "value": "COMBOPT - Comercial B-Optante,INDBOPT - Industrial B-Optante,PPEBOPT - Poder Público Estadual B-Optante,PPFBOPT - Poder Público Federal B-Optante,PPMBOPT - Poder Público Municipal B-Optante,RESBOPT - Residencial B-Optante,RURBOPT - Rural B-Optante,SPAESBOT - Serviço Público AES B-Optante,SPERVBOT - Serviço Público B-Optante,RUAQCOPT - Rural Optante Aquicultura / Irrigante"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "productConditions": [
+          {
+            "field": "Modalidade Tarifaria BR",
+            "value": "Horosazonal Verde"
+          }
+        ],
+        "ineligibilityActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "A1_AZ - Categoria de tarifa A1 horosazonal azul,A1_CONV - Categoria de tarifa A1 convencional,A1_LVAZ - Categoria de tarifa A1 horo azul livre,A2_AZ - Categoria de tarifa A2 horosazonal azul,A2_CONV - Categoria de tarifa A2 convencional,A2_GERAZ - Categoria de tarifa A2 gerador azul,A2_LVAZ - Categoria de tarifa A2 horo azul livre,A3A_AZ - Categoria de tarifa A3a horosazonal azul,A3A_CONV - Categoria de tarifa A3a convencional,A3A_GERAZ - Categoria de tarifa A3a gerador azul,A3A_LVAZ - Categoria de tarifa A3a horo azul livre,A3_AZ - Categoria de tarifa A3 horosazonal azul,A3_CONV - Categora de tarifa A3 convencional,A3_GERAZ - Categoria de tarifa A3 gerador azul,A3_LVAZ - Categoria de tarifa A3 horo azul livreAS,A4_AZ - Categoria de tarifa A4 horosazonal azul,A4_GERAZ - Categoria de tarifa A4 gerador azul,A4_LVAZ - Categoria de tarifa A4 horo azul livre,B1_RESID - Categoria de tarifa B1 residencial,B4B_IP - Categoria de tarifa B4b ilum. pública,DUMMY - Categoria de tarifa DUMMY,ELE_LIST - CATEGORIA TARIFFA A LISTINO - FORMAT,ELE_PRICE - CATEGORIA TARIFFA A PREZZO - FORMAT,GAS_MM - CATEGORIA TARIFFA GAS MM - FORMAT,GAS_PROC - CATEGORIA TARIFFA GAS PROCEDURE,MED_FISCAL - Categoria de Tarifa Medição Fiscal,MIGRADO - Categoria de tarifa para dados Migrados,A2_GERVD - Categoria de tarifa A2 gerador verde,A3_GERVD - Categoria de tarifa A3 gerador verde,A4_GERVD - Categoria de tarifa A4 gerador verde,A3_LVAZ - Categoria de tarifa A3 horo azul livre,A1_LVVD - Categoria de tarifa A1 horo verde livre,A1_VD - Categoria de tarifa A1 horosazonal verde,A2_LVVD - Categoria de tarifa A2 horo verde livre,A2_VD - Categoria de tarifa A2 horosazonal verde,A3_LVVD - Categoria de tarifa A3 horo verde livre,A3_VD - Categoria de tarifa A3 horosazonal verde,A1_GERAZ - Categoria de tarifa A1 gerador azul,B2_RUR - Categoria de tarifa B2 rural"
+          },
+          {
+            "field": "SubClasse BR",
+            "value": "COMBOPT - Comercial B-Optante,INDBOPT - Industrial B-Optante,PPEBOPT - Poder Público Estadual B-Optante,PPFBOPT - Poder Público Federal B-Optante,PPMBOPT - Poder Público Municipal B-Optante,RESBOPT - Residencial B-Optante,RURBOPT - Rural B-Optante,SPAESBOT - Serviço Público AES B-Optante,SPERVBOT - Serviço Público B-Optante,RUAQCOPT - Rural Optante Aquicultura / Irrigante"
+          }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}

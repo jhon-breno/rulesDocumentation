@@ -1,0 +1,138 @@
+{
+  "ruleName": "BR_CE_Classe_GroupA",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo A",
+  "documentationStatus": "partial",
+  "description": "Regra de mapeamento de Classe BR para Grupo A.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "10 - Residencial"
+          }
+        ]
+      },
+      {
+        "index": 2,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "60 - Iluminação Pública"
+          }
+        ]
+      },
+      {
+        "index": 3,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "70 - Serviço Público"
+          }
+        ]
+      },
+      {
+        "index": 4,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "80 - Consumo Próprio"
+          }
+        ]
+      },
+      {
+        "index": 5,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "40 - Rural"
+          }
+        ]
+      },
+      {
+        "index": 6,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "20 - Industrial"
+          }
+        ]
+      },
+      {
+        "index": 7,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "50 - Poder Público Federal"
+          }
+        ]
+      },
+      {
+        "index": 8,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "52 - Poder Público Municipal"
+          }
+        ]
+      },
+      {
+        "index": 9,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "9 - REVENDA"
+          }
+        ]
+      },
+      {
+        "index": 10,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "51 - Poder Público Estadual,53 - Poder Público Estadual Adm. Indireta"
+          }
+        ]
+      },
+      {
+        "index": 11,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "30 - Comercial,32 - Templos Religiosos e Inst. Filantrópicas"
+          }
+        ]
+      },
+      {
+        "index": 12,
+        "productConditions": [
+          {
+            "field": "Classe BR",
+            "value": "41 - Rural C/ICMS,42 - Rural normal Isento ICMS"
+          }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}

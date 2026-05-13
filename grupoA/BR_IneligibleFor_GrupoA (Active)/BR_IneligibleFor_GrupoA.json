@@ -1,0 +1,39 @@
+{
+  "ruleName": "BR_IneligibleFor_GrupoA",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo A",
+  "documentationStatus": "partial",
+  "description": "Regra para tornar inelegível Grupo A quando Valor de Tensão BR for 127 V.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "ineligibilityActions": [
+          {
+            "field": "Valor de Tensão BR",
+            "value": "127 V"
+          }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}

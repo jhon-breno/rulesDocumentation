@@ -1,0 +1,43 @@
+{
+  "ruleName": "BR_CE_FreeClientFALSE",
+  "status": "Active",
+  "sourceSystem": "B2Win",
+  "group": "Grupo A",
+  "documentationStatus": "partial",
+  "description": "Regra para clientes nao livres. Bloqueia categorias de tarifa livre quando o parametro free estiver false.",
+  "conditions": {
+    "Account": [],
+    "Address": [],
+    "BillingProfile": [],
+    "Contact": [],
+    "ServiceAccount": [],
+    "opportunity": [],
+    "BaseCondition": [],
+    "CartComposition": [],
+    "GlobalCart": [],
+    "REACondition": [
+      {
+        "expression": "(/Workspace/SessionParameters/Parameter[@name=\"free\"]/@value)=\"false\""
+      }
+    ],
+    "SessionParameters": [],
+    "Condition Relations": []
+  },
+  "actions": {
+    "BaseAction": [],
+    "SetAttribute": [],
+    "SetParameter": [],
+    "ProductConfiguration": [
+      {
+        "index": 1,
+        "ineligibilityActions": [
+          {
+            "field": "Categoria de Tarifa BR",
+            "value": "A1_LVVD - Categoria de tarifa A1 horo verde livre,A2_LVVD - Categoria de tarifa A2 horo verde livre,A3A_LVVD - Categoria de tarifa A3a horo verde livre,A3_LVVD - Categoria de tarifa A3 horo verde livre,A4_LVVD - Categoria de tarifa A4 horo verde livre,A2_LVAZ - Categoria de tarifa A2 horo azul livre,A1_LVAZ - Categoria de tarifa A1 horo azul livre,A3A_LVAZ - Categoria de tarifa A3a horo azul livre,A3_LVAZ - Categoria de tarifa A3 horo azul livreAS,A4_LVAZ - Categoria de tarifa A4 horo azul livre,A3_LVAZ - Categoria de tarifa A3 horo azul livre"
+          }
+        ]
+      }
+    ],
+    "REAAction": []
+  }
+}
