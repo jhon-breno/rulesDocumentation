@@ -15,6 +15,8 @@ Documentacao parcial. Ate o momento foram registrados:
 
 Os blocos de ProductConfiguration descrevem regras por Classe BR, com atribuicoes padrao de Categoria de Tarifa BR, SubClasse BR e alguns casos com requisitos e itens ocultos.
 
+Nos blocos das classes "52 - Poder Público Municipal", "70 - Serviço Público", "10 - Residencial", "41 - Rural C/ICMS,42 - Rural normal Isento ICMS", "51 - Poder Público Estadual,53 - Poder Público Estadual Adm. Indireta", "50 - Poder Público Federal", "20 - Industrial", "30 - Comercial,32 - Templos Religiosos e Inst. Filantrópicas", "40 - Rural" e "11 - Residencial Baixa Renda", tambem foram identificadas listas de ineligibility para "Categoria de Tarifa BR" e "SubClasse BR". O valor correto do desconto social deve ser "REBXDS - Resid. Desconto Social".
+
 A REACondition ainda nao foi informada nesta mensagem, entao ela permanece pendente na documentacao.
 
 ## Arquivo estruturado

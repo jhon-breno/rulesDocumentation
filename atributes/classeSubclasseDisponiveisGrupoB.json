@@ -1,0 +1,125 @@
+{
+  "group": "Grupo B",
+  "sourceRule": "BR_CE_Classe_GroupB",
+  "sourceAttributesFile": "attributes.csv",
+  "classes": [
+    {
+      "class": "52 - Poder Público Municipal",
+      "availableSubclasses": [
+        "PPMBOPT - Poder Público Municipal B-Optante",
+        "PPMUN - Poder Público Municipal",
+        "REPLN - Residencial Pleno",
+        "RURSP - Rural Serviço Público de Irrigação Rural",
+        "SPAES - Serviço Público Água Esgoto e Saneamento"
+      ]
+    },
+    {
+      "class": "70 - Serviço Público",
+      "availableSubclasses": [
+        "CPCPE - Consumo Próprio - Escritórios",
+        "CPCPO - Consumo Próprio - Canteiro de Obras",
+        "CPCPSE - Consumo Próprio - Sub-Estação",
+        "SPAES - Serviço Público Água Esgoto e Saneamento",
+        "SPTER - Serviço Público Tração Elétrica"
+      ]
+    },
+    {
+      "class": "10 - Residencial",
+      "availableSubclasses": [
+        "REBRBPC - Resid. Baixa Renda BPC",
+        "REBRIND - Resid. Baixa Renda Indígena",
+        "REBRQUI - Resid. Baixa Renda Quilombola",
+        "REBXDS - Resid. Desconto Social",
+        "REBXR - Resid. Baixa Renda",
+        "REPLN - Residencial Pleno"
+      ]
+    },
+    {
+      "class": "41 - Rural C/ICMS,42 - Rural normal Isento ICMS",
+      "availableSubclasses": [
+        "RUAGU - Rural Agropecuária Urbana",
+        "RUAQCOPT - Rural Optante Aquicultura / Irrigante",
+        "RUCES - Rural Cooperativa de Eletrificação Rural",
+        "RURAG - Rural Agropecuária",
+        "RURBOPT - Rural B-Optante",
+        "RURCR - Rural Coletividade Rural",
+        "RUREA - Rural Escola Agrotécnica",
+        "RURRR - Rural Residencial Rural",
+        "RURSP - Rural Serviço Público de Irrigação Rural"
+      ]
+    },
+    {
+      "class": "51 - Poder Público Estadual,53 - Poder Público Estadual Adm. Indireta",
+      "availableSubclasses": [
+        "COMOS - Comerc. Outros Serviços e Atividades",
+        "PPEBOPT - Poder Público Estadual B-Optante",
+        "PPEST - Poder Público Estadual",
+        "RURSP - Rural Serviço Público de Irrigação Rural",
+        "SPAES - Serviço Público Água Esgoto e Saneamento"
+      ]
+    },
+    {
+      "class": "50 - Poder Público Federal",
+      "availableSubclasses": [
+        "COMER - Comercial",
+        "PPEBOPT - Poder Público Estadual B-Optante",
+        "PPEST - Poder Público Estadual",
+        "PPFBOPT - Poder Público Federal B-Optante",
+        "PPFED - Poder Público Federal",
+        "PPMBOPT - Poder Público Municipal B-Optante",
+        "PPMUN - Poder Público Municipal",
+        "REPLN - Residencial Pleno",
+        "RURSP - Rural Serviço Público de Irrigação Rural",
+        "SPAES - Serviço Público Água Esgoto e Saneamento",
+        "SPERVBOT - Serviço Público B-Optante",
+        "SPTER - Serviço Público Tração Elétrica"
+      ]
+    },
+    {
+      "class": "20 - Industrial",
+      "availableSubclasses": [
+        "INDUST - Industrial"
+      ]
+    },
+    {
+      "class": "30 - Comercial,32 - Templos Religiosos e Inst. Filantrópicas",
+      "availableSubclasses": [
+        "COMCON - Comerc. Administração Condominial",
+        "COMCT - Comerc. Serv. Comunicações e Telecom",
+        "COMER - Comercial",
+        "COMFIL - Comerc. Associação e Entidades Filant.",
+        "COMOS - Comerc. Outros Serviços e Atividades",
+        "COMREL - Comerc. Templos Religiosos",
+        "COMROD - Comerc. Iluminação em Rodovia",
+        "COMSEM - Comerc. Semáforos Radares e Câmeras",
+        "COMTP - Comerc. Serviços de Transporte"
+      ]
+    },
+    {
+      "class": "40 - Rural",
+      "availableSubclasses": [
+        "RUAGU - Rural Agropecuária Urbana",
+        "RUAQC - Rural Aquicultura",
+        "RUAQCOPT - Rural Optante Aquicultura / Irrigante",
+        "RUCES - Rural Cooperativa de Eletrificação Rural",
+        "RURAG - Rural Agropecuária",
+        "RURBOPT - Rural B-Optante",
+        "RURCR - Rural Coletividade Rural",
+        "RUREA - Rural Escola Agrotécnica",
+        "RURIR - Rural Indústria Rural",
+        "RURRR - Rural Residencial Rural",
+        "RURSP - Rural Serviço Público de Irrigação Rural"
+      ]
+    },
+    {
+      "class": "11 - Residencial Baixa Renda",
+      "availableSubclasses": [
+        "REBRBPC - Resid. Baixa Renda BPC",
+        "REBRIND - Resid. Baixa Renda Indígena",
+        "REBRQUI - Resid. Baixa Renda Quilombola",
+        "REBXDS - Resid. Desconto Social",
+        "REBXR - Resid. Baixa Renda"
+      ]
+    }
+  ]
+}
